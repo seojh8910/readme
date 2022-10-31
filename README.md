@@ -1,3 +1,3 @@
 # readme
 
-https://whatsgog.com/static/img/work.png
+<img src="https://whatsgog.com/static/img/work.png">

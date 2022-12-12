@@ -1,6 +1,3 @@
 # readme
 
-<img src="https://whatsgog.com/static/img/work.png">
-asdasdasdasdzxczxc
-
-간드
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 

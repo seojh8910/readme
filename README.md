@@ -1,6 +1,6 @@
 # readme
 
-<img src="https://whatsgog.com/user/seojh1011/tech-cards"/>
+<img src="https://whatsgog.com/user/seojh1011/tech-cards" />
 ![image](https://whatsgog.com/user/Junanjunan/tech-cards)
 
  <a href="클릭시 이동할 링크" target="_blank"><img src="https://whatsgog.com/user/Junanjunan/tech-cards"/></a>
